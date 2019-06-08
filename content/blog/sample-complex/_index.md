@@ -1,8 +1,16 @@
 ---
 title: New Beginnings
-date: "2015-05-28T22:40:32.169Z"
+date: "2019-05-28T22:40:32.169Z"
 description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
 ---
+
+This post exists solely so I can see how markdown works with the technology I
+used to create this blog.
+
+It's from the sample gatsby starter blog file.
+
+If you don't code, none of what I just said will make much sense but feel free
+to carry on.
 
 Far far away, behind the word mountains, far from the countries Vokalia and
 Consonantia, there live the blind texts. Separated they live in Bookmarksgrove

@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Mayowa's Blog`,
     author: `Mayowa Daniel`,
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    description: `A blog.`,
+    siteUrl: `https://blog.mayowa.me/`,
     social: {
       twitter: `maydan2a`,
     },
@@ -14,6 +14,7 @@ module.exports = {
       options: {
         path: `${__dirname}/content/blog`,
         name: `blog`,
+        ignore: process.env.NODE_ENV === "production" ? ["**/_*.md"] : [],
       },
     },
     {
@@ -57,8 +58,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Mayowa's Blog`,
+        short_name: `Mayowa`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
