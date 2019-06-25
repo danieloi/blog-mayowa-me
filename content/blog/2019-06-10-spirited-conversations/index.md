@@ -18,7 +18,7 @@ I'm doing my best to not say we had a heated argument 😂.
 
 How did I do?
 
-I shared my own take on the discussion with I-man and it went along these lines.
+I shared my own take on the discussion with I-man and it went along these lines:
 
 > For all professional extinction events over the next few decades, developers will be the meteorite, not the dinosaurs.
 
