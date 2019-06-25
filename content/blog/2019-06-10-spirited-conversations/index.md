@@ -32,12 +32,22 @@ A-dev and I joined our company for this exact reason.
 
 Developers take a lot of pride in their work and rightly so. Few other fields have shaped modern life as much as software development.
 
-I became one because of what was to me a uniquely sublime realization that with my laptop and an internet connection I can influence people all over the world more quickly and widely than almost anyone could have dreamed possible before. Certainly more than any other profession.
+I became one because of what was to me a uniquely sublime realization- with my laptop and an internet connection I can influence people all over the world more quickly and widely than almost anyone in the past could have dreamed possible. Certainly more than any other profession today.
 
-I could go on with examples of developer-driven innovations like self-driving cars et al. Yet as human beings we'll always need each other.
+I could go on with examples of developer-driven innovations like self-driving cars et al.
+
+Yet as human beings we'll always need each other.
 
 > A time will never come that the only job openings will be for software developers.
 
 And this is just plain fact.
 
-I'm of the opinion that every organization needs an I-man and not just the crop of A-dev and I. Even for the "techiest" of companies.
+I routinely
+
+- eat food someone made
+- listen to music someone made
+- go to places people built
+- consume content others put out
+- do a bunch of other stuff that involve people who don't write code
+
+I shared how every organization needs an I-man and not just the crop of A-dev and I. Even the "techiest" of organizations.
