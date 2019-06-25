@@ -1,7 +1,7 @@
 ---
 title: Spirited Conversations
 date: "2019-06-10"
-description: Workplace shadistry 
+description: Workplace events 
 ---
 
 At the close of work today, we had a spirited conversation on the role of software developers in the future.
