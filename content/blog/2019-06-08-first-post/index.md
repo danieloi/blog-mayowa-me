@@ -1,7 +1,7 @@
 ---
 title: My First Post
 date: "2019-06-08"
-description: "Beginnings"
+description: Beginnings
 ---
 
 Writing is fundamental to the process of reflecting.
