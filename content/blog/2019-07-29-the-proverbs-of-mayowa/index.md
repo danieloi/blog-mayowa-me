@@ -61,7 +61,7 @@ It’s crucial to stay away from people that term you proud for being this way.
 
 There are many that have lied to themselves so frequently and for so long that they no longer reason properly.  
 
-Yet, it’s crucial that no root of bitterness gain root in your heart because of these ones that have taken this route.
+Yet, it’s crucial that no root of bitterness take root in your heart because of these ones that have taken this route.
 
 The Spirit taught me all these things by my association with pastor Chris.
 
@@ -75,7 +75,8 @@ By their understanding, a humble person is the one that bears under people’s p
 
 From these observations I see what John meant by the whole world lies in darkness.
 
-A part of Christian discipline is not guilt-tripping people. Especially those in Christ.
+A part of Christian discipline is not guilt-tripping people.  
+Especially those in Christ.
 
 Someone came late to an event.
 
