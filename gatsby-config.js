@@ -2,10 +2,11 @@ module.exports = {
   siteMetadata: {
     title: `Mayowa's Blog`,
     author: `Mayowa Daniel`,
-    description: `A blog.`,
+    description: `A blog by Mayowa Daniel`,
     siteUrl: `https://blog.mayowa.me/`,
     social: {
       twitter: `maydan2a`,
+      instagram: `2bzwinin`
     },
   },
   plugins: [

@@ -42,7 +42,7 @@ function Bio() {
               building useful things.
               {` `}
               <a href={`https://twitter.com/${social.twitter}`}>
-                You should follow him on Twitter
+                You should follow him on Twitter when he changes this line because right now he's not active there.
               </a>
             </p>
           </div>
