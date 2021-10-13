@@ -1,7 +1,7 @@
 ---
 title: Kindness v. Mercy
 date: "2020-07-20"
-description: Words: their meanings and connotations
+description: Words- their meanings and connotations
 ---
 
 Look at Jesus.

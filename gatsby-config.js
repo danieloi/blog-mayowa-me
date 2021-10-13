@@ -10,6 +10,7 @@ module.exports = {
       ologIOs: `https://apps.apple.com/mn/app/olog/id1562241111`,
       ologAndroid: `https://play.google.com/store/apps/details?id=me.olog`,
       ologWeb: "https://olog.me/sourceror-supreme",
+      repo: "https://github.com/danieloi/blog-mayowa-me",
     },
   },
   plugins: [

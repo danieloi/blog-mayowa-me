@@ -46,15 +46,18 @@ function Bio() {
               </a>
               .{` `}
               I'm iterating on this voice note journaling and sharing tool
-              called olog.
+              called olog. Get it
               {` `}
-              <a href={`${social.ologIOs}`}>Get it on iOS</a>
-              {` `},{` `}
+              <a href={`${social.ologIOs}`}> on iOS</a>,{` `}
               <a href={`${social.ologAndroid}`}>on Android</a>
               {` `}
               and
               {` `}
-              <a href={`${social.ologWeb}`}>on the web</a>
+              <a href={`${social.ologWeb}`}>on the web</a>.{` `}
+              You can see WIP and suggest edits to articles
+              {` `}
+              <a href={`${social.repo}`}>here</a>
+              {` `}
             </p>
             <p />
           </div>
@@ -81,6 +84,7 @@ const bioQuery = graphql`
           ologAndroid
           ologIOs
           ologWeb
+          repo
         }
       }
     }
