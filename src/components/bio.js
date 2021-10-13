@@ -42,9 +42,21 @@ function Bio() {
               building useful things.
               {` `}
               <a href={`https://twitter.com/${social.twitter}`}>
-                You should follow him on Twitter when he changes this line because right now he's not active there.
+                You should follow him on Twitter
               </a>
+              .{` `}
+              I'm iterating on this voice note journaling and sharing tool
+              called olog.
+              {` `}
+              <a href={`${social.ologIOs}`}>Get it on iOS</a>
+              {` `},{` `}
+              <a href={`${social.ologAndroid}`}>on Android</a>
+              {` `}
+              and
+              {` `}
+              <a href={`${social.ologWeb}`}>on the web</a>
             </p>
+            <p />
           </div>
         )
       }}
