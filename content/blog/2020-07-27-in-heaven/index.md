@@ -11,5 +11,5 @@ If no one knows you're a Christian on earth, no one knows in heaven either.
 
 There's no illegal immigration in heaven.
 
-No one does anything wrong there so people use "kindness" more than "mercy"
+No one does anything wrong there so people use "kindness" more than "mercy" [see](../2020-07-20-kindness-v-mercy/index.md)
 when they're expressing gratitude to God.

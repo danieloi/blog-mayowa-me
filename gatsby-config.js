@@ -6,7 +6,10 @@ module.exports = {
     siteUrl: `https://blog.mayowa.me/`,
     social: {
       twitter: `maydan2a`,
-      instagram: `2bzwinin`
+      instagram: `2bzwinin`,
+      ologIOs: `https://apps.apple.com/mn/app/olog/id1562241111`,
+      ologAndroid: `https://play.google.com/store/apps/details?id=me.olog`,
+      ologWeb: "https://olog.me/sourceror-supreme",
     },
   },
   plugins: [
