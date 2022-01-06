@@ -1,5 +1,5 @@
 ---
-title: "High Quality v Low Quality Content"
+title: High-Quality v Low-Quality Content
 date: "2022-01-06"
 description: I'm a book, you're a reel, we are not the same
 ---
